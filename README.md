@@ -25,14 +25,14 @@ Move from **unreal to real**, from **unimaginable to imaginable** — by practic
 
 ## 🎥 Course Videos
 
-All lessons and assignments are available as **unlisted videos** on the [Goobo Labs YouTube Channel](https://youtube.com/@goobolabs).
+All lessons and assignments are available as **unlisted videos** on the Somast YouTube channel (somastllc).
 Follow them in order for the full learning experience. 🚀
 
 | #  | Title                                                       | Watch                                                                                                                |
 | -- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1  | Lesson One — Introduction to Machine Learning (Zoom Lesson) | [▶️ Watch](https://youtu.be/gbch6kfkYMg?si=e-cEaTo4ppFPOG7D)                                                         |
 | 2  | Revision — Introduction to Machine Learning                 | [▶️ Watch](https://youtu.be/KMEXfW8jFEs?si=hNgqLK5_NzYJba0x)                                                         |
-| 3  | Assignment One — Introduction to Machine Learning           | [📝 Assignment](https://github.comgoobolabsds-ml-bootcamp/blob/main/assignment/introduction-to-machine-learning.md) |
+| 3  | Assignment One — Introduction to Machine Learning           | [📝 Assignment](https://github.com/somastllc/sep-ds-ml-bootcamp-2025/blob/main/assignment/introduction-to-machine-learning.md) |
 | 4  | Lesson Two — Data Foundations for Machine Learning          | [▶️ Watch](https://youtu.be/YONJWz5YNzg?si=s8alsA30xX2FJFOy)                                                         |
 | 5  | Assignment Two — Data Foundations for Machine Learning      | [▶️ Watch](https://youtu.be/Gncd6hApeXE?si=mp3yEidWubM341zW)                                                         |
 | 6  | Lesson Three — Data Processing In Action (Zoom Lesson)      | [▶️ Watch](https://youtu.be/YF7sury1hgc)                                                                             |
@@ -44,15 +44,15 @@ Follow them in order for the full learning experience. 🚀
 | 12 | Lesson Five — Regression In Action with Assignment          | [▶️ Watch](https://youtu.be/8-YraMlB_Qk?si=wI0XuNqraXWaaIcD)                                                         |
 | 13 | Regression In Action (Jupyter Notebook)                     | [▶️ Watch](https://youtu.be/FbktkZfTl5U?si=PMqRs-x3yEkOUEgo)                                                         |
 | 14 | Lesson Six — Classification with Assignment                 | [▶️ Watch](https://youtu.be/m_kCT0la3Qc?si=7DFow4J36GoeP0cV)                                                         |
-| 15 | Assignment Six — Classification                             | [📝 Assignment](https://github.comgoobolabsds-ml-bootcamp/blob/main/assignment/lesson-six.md)                       |
+| 15 | Assignment Six — Classification                             | [📝 Assignment](https://github.com/somastllc/sep-ds-ml-bootcamp-2025/blob/main/assignment/lesson-six.md)                       |
 | 16 | Lesson Seven — Classification In Action                     | [▶️ Watch](https://www.youtube.com/watch?v=lJrg6GA-wJs)                                                              |
 | 17 | Assignment Seven — Classification In Action                 | [▶️ Watch](https://www.youtube.com/watch?v=RkPmZ17j7c0)                                                              |
 | 18 | Lesson Eight — Clustering                                   | [▶️ Watch](https://www.youtube.com/watch?v=3YJbHfTJOlA)                                                              |
-| 19 | Assignment Eight — Clustering                               | [📝 Assignment](https://github.comgoobolabsds-ml-bootcamp/blob/main/assignment/lesson-eight.md)                     |
+| 19 | Assignment Eight — Clustering                               | [📝 Assignment](https://github.com/somastllc/sep-ds-ml-bootcamp-2025/blob/main/assignment/lesson-eight.md)                     |
 | 20 | Lesson Nine — Clustering In Action                          | [▶️ Watch](https://www.youtube.com/watch?v=SNdpQV6feiA)                                                              |
-| 21 | Assignment Nine — Clustering In Action                      | [📝 Assignment](https://github.comgoobolabsds-ml-bootcamp/blob/main/assignment/lesson-nine.md)                      |
+| 21 | Assignment Nine — Clustering In Action                      | [📝 Assignment](https://github.com/somastllc/sep-ds-ml-bootcamp-2025/blob/main/assignment/lesson-nine.md)                      |
 | 22 | Lesson Ten — Deployment                                     | [▶️ Watch](https://youtu.be/ANibKg8wq6A?si=O-kOJPysMRjiZc_F)                                                         |
-| 23 | Final Project                                               | [📝 Project](https://github.com/goobolabs/sep-ds-ml-bootcamp-2025/blob/main/assignment/final_project.md)             |
+| 23 | Final Project                                               | [📝 Project](https://github.com/somastllc/sep-ds-ml-bootcamp-2025/blob/main/assignment/final_project.md)             |
 
 ---
 
@@ -82,7 +82,7 @@ This bootcamp is fully sponsored by:
 
 ## 📄 License
 
-Copyright © 2026 Goobo Labs. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Copyright © 2026 Somast. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
